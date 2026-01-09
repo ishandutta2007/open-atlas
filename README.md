@@ -60,6 +60,7 @@ We welcome contributions from everyone! Whether you're a developer, a designer, 
 *   **Feature Requests:** Have an idea for a new feature? Let us know by opening an issue.
 *   **Code Contributions:** If you'd like to contribute code, please fork the repository and submit a pull request.
 *   **Documentation:** Help us improve our documentation to make it easier for others to get started.
+*   **Join our [Discord server](https://discord.com/invite/jc4xtF58Ve)** to chat with the team and other contributors.
 
 Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on our code of conduct and the process for submitting pull requests.
 
